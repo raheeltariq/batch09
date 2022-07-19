@@ -1,2 +1,4 @@
 this is my new file line 1
 this is line 2
+this is my new file line 6
+this is line 5
